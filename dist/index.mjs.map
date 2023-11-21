@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../src/index.ts"],"sourcesContent":["export function add(a: number, b: number): number {\n  return a + b;\n}\n"],"names":[],"mappings":";;;;;;AAAgB,SAAA,GAAG,CAAC,CAAS,EAAE,CAAS,EAAA;IACtC,OAAO,CAAC,GAAG,CAAC,CAAC;AACf;;;;"}
